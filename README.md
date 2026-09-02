@@ -1,4 +1,10 @@
-# Привет — это **CyberLeek Archive** / **CyberLeak VI**
+<p align="center">
+  <img src="https://cyberleakgta6.com/android-chrome-512.png" width="128" alt="CyberLeak VI — CyberLeek Archive">
+</p>
+
+<h1 align="center">Привет — это <strong>CyberLeek Archive</strong> / <strong>CyberLeak VI</strong></h1>
+
+<p align="center"><em>Hello — canonical GitHub for <a href="https://cyberleakgta6.com/">cyberleakgta6.com</a></em></p>
 
 Канон сайта: **[cyberleakgta6.com](https://cyberleakgta6.com/)**  
 Бренд: **CyberLeak** · **CyberLeek** · **киберлик** · **kiberlik**  
